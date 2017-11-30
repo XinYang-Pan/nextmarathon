@@ -1,0 +1,4 @@
+baseURL = "https://www.nextmarathon.cn/"
+languageCode = "en-us"
+title = "下一马跑团"
+theme = "ananke"
